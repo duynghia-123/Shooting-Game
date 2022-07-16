@@ -2,7 +2,7 @@ Shooting Game
 
 Build a complete game from scratch with HTML, CSS & JavaScript, tutorial coming soon.
 
-## Live demo:
+## Live demo: https://silver-bonbon-eea9cf.netlify.app
 
 Controls: up and down arrow to move, spacebar to shoot
 
@@ -11,5 +11,3 @@ Enter power up mode by colliding with small power up fish (glowing) or by shooti
 Reach score over 80 in 30 seconds to win the game!
 Let me know what performance you get on older computers, any lag? This game is not optimised for mobile phones.
 
-Download art assets:
-(coming soon...)
